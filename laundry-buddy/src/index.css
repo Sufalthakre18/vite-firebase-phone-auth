@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+    font-family: 'DM Sans', sans-serif;
+    background: #353839;
+    color: #f1f5f9;
+    min-height: 100vh;
+  }
+}
